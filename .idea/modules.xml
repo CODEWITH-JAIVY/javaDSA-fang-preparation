@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAY/ARRAY.iml" filepath="$PROJECT_DIR$/ARRAY/ARRAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchingAlgorithm/Assigment/Assigment.iml" filepath="$PROJECT_DIR$/SearchingAlgorithm/Assigment/Assigment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVADSA.iml" filepath="$PROJECT_DIR$/.idea/JAVADSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linklist/Linklist.iml" filepath="$PROJECT_DIR$/Linklist/Linklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchingAlgorithm/SearchingAlgorithm.iml" filepath="$PROJECT_DIR$/SearchingAlgorithm/SearchingAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAY/WindowSliding/WindowSliding.iml" filepath="$PROJECT_DIR$/ARRAY/WindowSliding/WindowSliding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/leetCodeProblem.iml" filepath="$PROJECT_DIR$/untitled/leetCodeProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revision/revision.iml" filepath="$PROJECT_DIR$/revision/revision.iml" />
+    </modules>
+  </component>
+</project>

@@ -12,7 +12,7 @@ public class dequeimplimetation {
         List<Integer> list = new ArrayList<>() ;
         ConcurrentLinkedDeque cquqe = new ConcurrentLinkedDeque() ;
         ConcurrentLinkedDeque<String> cq = new ConcurrentLinkedDeque<>() ;
-        Con
+
         cquqe.add(10) ;
         cquqe.add(20) ;
         cquqe.add(30) ;

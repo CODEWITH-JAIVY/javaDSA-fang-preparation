@@ -56,18 +56,18 @@ public class MatrixMedian {
         };
         System.out.println("Median is: " + findMedian(mat1)); // Output: 5
 
-        int[][] mat2 = {
-                {2, 4, 9},
-                {3, 6, 7},
-                {4, 7, 10}
-        };
-        System.out.println("Median is: " + findMedian(mat2)); // Output: 6
-
-        int[][] mat3 = {
-                {3},
-                {4},
-                {8}
-        };
-        System.out.println("Median is: " + findMedian(mat3)); // Output: 4
+//        int[][] mat2 = {
+//                {2, 4, 9},
+//                {3, 6, 7},
+//                {4, 7, 10}
+//        };
+//        System.out.println("Median is: " + findMedian(mat2)); // Output: 6
+//
+//        int[][] mat3 = {
+//                {3},
+//                {4},
+//                {8}
+//        };
+//        System.out.println("Median is: " + findMedian(mat3)); // Output: 4
     }
 }
